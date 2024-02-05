@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Product",
+};
+
 export default function ProductDetailsLayout({ children }) {
   return (
     <>
