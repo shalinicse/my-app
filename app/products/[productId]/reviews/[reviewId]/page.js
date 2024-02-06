@@ -6,6 +6,7 @@ export default function ProductReviewPage({ params }) {
   }
   return (
     <div>
+      {/* {dfghj}  just to check an error of undefined and handling it bu error.js */}
       Review for {params.productId} Product , review {params.reviewId}
     </div>
   );
